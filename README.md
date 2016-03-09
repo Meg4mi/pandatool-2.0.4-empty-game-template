@@ -11,7 +11,7 @@ Building project...
 /usr/local/lib/node_modules/pandatool/build.js:56
     delete game.config.debug;
 ```
-I finally got to work and decided to share a quick template that solves the problem (while we wait definitive bugfix for the next release).
+I finally got it work and decided to share a quick template that solves the problem (while we wait definitive bugfix for the next release).
 Just run the following lines in your command line.
 
 ```
@@ -22,4 +22,4 @@ cd template
 panda build
 ```
 
-Happy codding!!
+Happy coding!!
